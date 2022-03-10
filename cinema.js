@@ -42,3 +42,4 @@ function alterarEmCartaz(codigo, buscarFilme) {
 
 
 // comentário de teste
+console.log('Commit da Professora Jessica')
