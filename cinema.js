@@ -43,3 +43,8 @@ function alterarEmCartaz(codigo, buscarFilme) {
 
 // comentário de teste
 console.log('Commit do Professor Cassio')
+
+
+function teste() {
+  console.log('teste')
+}
