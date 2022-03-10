@@ -48,3 +48,7 @@ console.log('Commit do Professor Cassio')
 function teste() {
   console.log('teste')
 }
+
+function digaAdeus() {
+  console.log('Adeus! :)')
+}
