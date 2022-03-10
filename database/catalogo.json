@@ -1,0 +1,34 @@
+[
+  {
+    "codigo":1,
+    "titulo":"Fury",
+    "duracao":2,
+    "atores":["Ator1","Ator2", "Ator3"],
+    "anoDeLancamento":2015,
+    "emCartaz":false
+  },
+  {
+    "codigo":2,
+    "titulo":"Avatar",
+    "duracao":3,
+    "atores":["Ator1", "Ator2", "Ator3"],
+    "anoDeLancamento":2010,
+    "emCartaz":true
+  },
+  {
+    "codigo":3,
+    "titulo":"Fury 2",
+    "duracao":2,
+    "atores":["Ator1","Ator2", "Ator3"],
+    "anoDeLancamento":2016,
+    "emCartaz":false
+  },
+  {
+    "codigo":4,
+    "titulo":"Avatar 2",
+    "duracao":3,
+    "atores":["Ator1", "Ator2", "Ator3"],
+    "anoDeLancamento":2020,
+    "emCartaz":true
+  }
+]
